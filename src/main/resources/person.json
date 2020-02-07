@@ -1,0 +1,14 @@
+{
+  "firstName": "Сергей",
+  "lastName": "Скуридин",
+  "work": {
+    "company": "Инфосистемы Джет",
+    "department": "Отдел тестирования ",
+    "group": "Группа нагрузочного тестирования"
+  },
+  "personalContacts": [
+    "https://portal.jet.su/company/personal/user/8801/",
+    "https://www.facebook.com/ckuridin",
+    "https://www.linkedin.com/in/sergei-skuiridn-38459385/"
+  ]
+}
