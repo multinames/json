@@ -1,4 +1,4 @@
-package json.parser001.entity;
+package json.parser001_json.entity;
 
 public class Work {
     private String company;

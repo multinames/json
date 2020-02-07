@@ -1,7 +1,7 @@
-package json.parser001.parser;
+package json.parser001_json.parser;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import json.parser001.entity.Person;
+import json.parser001_json.entity.Person;
 
 import java.io.File;
 import java.io.IOException;
